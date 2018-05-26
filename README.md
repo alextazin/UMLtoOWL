@@ -1,1 +1,1 @@
-# UMLto OWL conversion tool
+# UML to OWL conversion tool
